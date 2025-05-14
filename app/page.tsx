@@ -14,9 +14,9 @@ import Textarea from "react-textarea-autosize";
 import Image from "next/image";
 
 const examples = [
-  "Example 1",
-  "Example 2",
-  "Example 3",
+  "Build me a spring capsule wardrobe.",
+  "What to wear to a spring wedding in Napa?",
+  "How should I style a linen vest?",
 ];
 
 export default function Chat() {
