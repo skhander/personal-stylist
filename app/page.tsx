@@ -83,17 +83,17 @@ export default function Chat() {
               className="h-20 w-20"
             />
             <h1 className="text-lg font-semibold text-black">
-              Hi, I'm a fine tuned LLM.
+              Hi, I'm your TRR Style Assistant.
             </h1>
             <p className="text-gray-500">
-              I'm part of a series of computational experiments taught by{" "}
+              I'm part of an experiment taught by{" "}
               <a
-                href="https://linkin.bio/yallahalim/"
+                href=""
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-medium underline underline-offset-4 transition-colors hover:text-black"
               >
-                Halim Madi
+                Sam Khander
               </a>. I was built using{" "}
               <a
                 href="https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates"
@@ -167,35 +167,26 @@ export default function Chat() {
           </button>
         </form>
         <p className="text-center text-xs text-gray-400">
-          Built with{" "}
-          <a
-            href="https://sdk.vercel.ai/docs"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="transition-colors hover:text-black"
-          >
-            Vercel AI SDK
-          </a>
-          ,{" "}
-          <a
-            href="https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="transition-colors hover:text-black"
-          >
-            OpenAI GPT-3.5-turbo, as part of a course taught by
-          </a>{" "}
-          Halim Madi.{" "}
-          <a
-            href="https://linkin.bio/yallahalim/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="transition-colors hover:text-black"
-          >
-            Learn to build your own
-          </a>
-          .
-        </p>
+  Built with{" "}
+  <a
+    href="https://sdk.vercel.ai/docs"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="transition-colors hover:text-black"
+  >
+    Vercel AI SDK
+  </a>
+  ,{" "}
+  <a
+    href="https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="transition-colors hover:text-black"
+  >
+    OpenAI GPT-3.5-turbo
+  </a>
+  .
+</p>
       </div>
     </main>
   );
