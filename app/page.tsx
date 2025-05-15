@@ -104,7 +104,7 @@ export default function Chat() {
                 fine-tuned GPT4o.
               </a>
             </p>
-            <p className="font-semibold mt-4">Ask me anything:</p>
+            <p className="font-semibold mt-4">Ask me anything, like:</p>
           </div>
           <div className="flex flex-col space-y-4 border-t border-gray-200 bg-gray-50 p-7 sm:p-10">
             {examples.map((example, i) => (
