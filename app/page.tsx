@@ -96,7 +96,7 @@ export default function Chat() {
                 Sam Khander
               </a>. I was built using{" "}
               <a
-                href="https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates"
+                href="https://openai.com/index/hello-gpt-4o/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-medium underline underline-offset-4 transition-colors hover:text-black"
