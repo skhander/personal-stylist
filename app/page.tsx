@@ -86,7 +86,7 @@ export default function Chat() {
               Hi, I'm your TRR Style Assistant.
             </h1>
             <p className="text-gray-500">
-              I was developed and trained by{" "}
+              I'm part of an experiment taught by{" "}
               <a
                 href=""
                 target="_blank"
@@ -94,9 +94,9 @@ export default function Chat() {
                 className="font-medium underline underline-offset-4 transition-colors hover:text-black"
               >
                 Sam Khander
-              </a> using{" "}
+              </a>. I was built using{" "}
               <a
-                href="https://openai.com/index/hello-gpt-4o/"
+                href="https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-medium underline underline-offset-4 transition-colors hover:text-black"
