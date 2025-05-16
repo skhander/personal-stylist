@@ -5,7 +5,7 @@ import { Analytics } from '@vercel/analytics/react';
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: "The RealReal AI Stylist – Fast, Smart Fashion Picks",
+  title: "The RealReal AI Stylist",
   description:
     "Get styled in seconds. The RealReal’s AI Stylist recommends luxury pieces tailored to your taste. Smarter shopping starts here."
 }
