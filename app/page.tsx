@@ -88,7 +88,7 @@ export default function Chat() {
             <p className="text-gray-500">
               I'm part of an experiment taught by{" "}
               <a
-                href=""
+                href="https://docs.google.com/spreadsheets/d/1jmOHqbiIR2jl2dI6YDCMGRa7GlYiHDzjkwKVy107sPc/edit?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-medium underline underline-offset-4 transition-colors hover:text-black"
