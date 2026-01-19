@@ -8,4 +8,4 @@
 
 ## About
 
-Built by Sam Khander using the [Vercel AI SDK](https://sdk.vercel.ai/docs) and [fine-tuned](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates) on a small data set, this demo shows how you can customize LLMs for specific use cases — like personal styling — right out of the box.
+Built by Sharin Khander using the [Vercel AI SDK](https://sdk.vercel.ai/docs) and [fine-tuned](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates) on a small data set, this demo shows how you can customize LLMs for specific use cases — like personal styling — right out of the box.
